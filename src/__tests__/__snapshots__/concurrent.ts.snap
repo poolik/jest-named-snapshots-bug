@@ -1,0 +1,66 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`My tests first group first: 2_first 1`] = `
+Object {
+  "data": "first",
+  "group": 2,
+}
+`;
+
+exports[`My tests first group first: 2_second 1`] = `
+Object {
+  "data": "second",
+  "group": 2,
+}
+`;
+
+exports[`My tests first group first: fifth 1`] = `
+Object {
+  "data": "fifth",
+}
+`;
+
+exports[`My tests first group first: first 1`] = `
+Object {
+  "data": "first",
+}
+`;
+
+exports[`My tests first group first: third 1`] = `
+Object {
+  "data": "third",
+}
+`;
+
+exports[`My tests first group fourth: 2_third 1`] = `
+Object {
+  "data": "third",
+  "group": 2,
+}
+`;
+
+exports[`My tests first group fourth: fourth 1`] = `
+Object {
+  "data": "fourth",
+}
+`;
+
+exports[`My tests first group second: 2_fifth 1`] = `
+Object {
+  "data": "fifth",
+  "group": 2,
+}
+`;
+
+exports[`My tests first group second: 2_fourth 1`] = `
+Object {
+  "data": "fourth",
+  "group": 2,
+}
+`;
+
+exports[`My tests first group second: second 1`] = `
+Object {
+  "data": "second",
+}
+`;
